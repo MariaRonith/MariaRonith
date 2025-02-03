@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MariaRonith
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on hetical hacking programs
+- 💞️ I’m looking to collaborate on ethical hacking programs
 - 📫 How to reach me insta @maria.ronith or gmail mariaronith9@gmail.com
 - 
 
